@@ -1,0 +1,28 @@
+marquee.py-2 {
+  font-size: large;
+  border-bottom: 1px solid lightgray;
+}
+
+.marquee-img {
+  width: 6%;
+  height: auto;
+}
+
+.gs-container {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+footer {
+  background-color: #fff;
+  position: fixed !important;
+  bottom: 0px;
+  border-top: 1px solid lightgray;
+}
+
+.bg-image {
+  background-image: url(https://res.cloudinary.com/fiewin1/image/upload/images/proxyBg.png);
+  background-size: cover contain;
+}
